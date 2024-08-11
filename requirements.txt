@@ -1,0 +1,4 @@
+pyttsx3
+SpeechRecognition
+transformers
+torch==2.2.0
