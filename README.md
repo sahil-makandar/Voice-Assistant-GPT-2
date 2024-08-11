@@ -11,7 +11,6 @@ This project is a Python-based voice assistant that uses the GPT-2 model for nat
 - [How It Works](#how-it-works)
 - [Error Handling](#error-handling)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -33,8 +32,8 @@ Follow these steps to set up the project on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/voice-assistant-gpt2.git
-cd voice-assistant-gpt2
+git clone https://github.com/sahil-makandar/Voice-Assistant-GPT-2.git
+cd Voice-Assistant-GPT-2
 ```
 
 ## Create a Virtual Environment (Optional but Recommended)
@@ -77,12 +76,6 @@ The project relies on several Python libraries, which are listed in the `require
 - `speech_recognition`: For converting spoken words into text.
 - `pyttsx3`: For converting text responses into speech.
 - `transformers`: For loading the GPT-2 model and tokenizer.
-
-To install these dependencies, make sure to run:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## How It Works
 
